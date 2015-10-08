@@ -6,7 +6,7 @@ I like to stream myself live coding from my Chrome Pixel. When I do this, I some
 
 I originally used one of various online whiteboard apps out there, but I found myself unsatisfied with the. Many were too complex, had lots of menus cluttering the screen, and more importantly they were _slowed down_ by their cumbersome UI. All I wanted was something that would let me have a couple sizes of pen to draw with and a quick way to switch to an eraser, save, load, and clear the screen.
 
-So I found [this multitouch HTML Canvas drawing demo](http://www.paulirish.com/demo/multi) by @tbranyen, @paulirish, @miketaylr, and @borismus. I modified it to do a few different behaviors on different numbers of multitouch:
+So I found [this multitouch HTML Canvas drawing demo](http://www.paulirish.com/demo/multi) by [Tim Branyen](http://github.com/tbranyen), [Paul Irish](http://github.com/paulirish), [Mike Taylor](http://github.com/miketaylr), and [Boris Smus](http://github.com/borismus). I modified it to do a few different behaviors on different numbers of multitouch:
 
 * 1-touch: draw in black
 * 2-touch: erase the space in a thick line between your two fingers
