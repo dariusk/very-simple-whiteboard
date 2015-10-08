@@ -1,0 +1,71 @@
+body {
+  margin: 0px;
+  font-family: sans-serif;
+  overflow: hidden;
+}
+h1 {
+  margin-bottom: -20px;
+}
+h2 {
+  color: rgba(0,0,0,0.5);
+}
+h3 {
+  margin-top: -20px;
+  color: rgba(0,0,0,0.5);
+}
+a {
+  color: rgba(0,0,255,0.45);
+}
+#surface {
+  width: 80%;
+  height: 800px;
+  display: inline-block;
+  float:left;
+}
+#saves {
+  display: inline-block;
+  width: 18%;
+  height: 800px;
+  padding: 1%;
+  overflow: auto;
+  background-color: #ddd;
+}
+#saves > canvas {
+  width: 100%;
+}
+canvas {
+  background-color: #fff;
+}
+.styled-select {
+   height: 29px;
+   width: 240px;
+}
+.notes {
+  max-width: 600px;
+  margin: 20px;
+}
+
+.styled-select select {
+   background: transparent;
+   border: none;
+   font-size: 14px;
+   height: 29px;
+   padding: 5px; /* If you add too much padding here, the options won't show in IE */
+   width: 268px;
+}
+
+.styled-select.slate {
+   height: 34px;
+   width: 240px;
+}
+
+.styled-select.slate select {
+   border: 1px solid #ccc;
+   font-size: 16px;
+   height: 34px;
+   width: 268px;
+}
+
+.slate   { background-color: #ddd; }
+.slate select   { color: #000; }
+
