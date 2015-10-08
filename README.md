@@ -1,5 +1,7 @@
 # very simple whiteboard
 
+_[Demo here](http://tinysubversions.com/stuff/very-simple-whiteboard/), requires a multitouch device and is only guaranteed to really work with a Chrome Pixel._
+
 I like to stream myself live coding from my Chrome Pixel. When I do this, I sometimes like to tab over to a whiteboard app and draw out an explanation for what I'm coding.
 
 I originally used one of various online whiteboard apps out there, but I found myself unsatisfied with the. Many were too complex, had lots of menus cluttering the screen, and more importantly they were _slowed down_ by their cumbersome UI. All I wanted was something that would let me have a couple sizes of pen to draw with and a quick way to switch to an eraser, save, load, and clear the screen.
